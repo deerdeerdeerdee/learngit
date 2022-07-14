@@ -6,4 +6,4 @@ My stupid boss still prefers SVN.
 
 this file has been pushed to remote github.
 changed by vim.
-Creating a new branch is quick.
+Creating a new branch is quick & simple.
